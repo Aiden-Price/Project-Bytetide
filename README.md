@@ -1,6 +1,5 @@
 ===============================================================================
- Author      : 530502821
- Assignment  : Project-ByteTide
+Project-ByteTide
 ===============================================================================
 
 Describe the organisation of the software
