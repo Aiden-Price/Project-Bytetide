@@ -1,9 +1,0 @@
-ident: EFABCD9012345678EFABCD9012345678EFABCD90
-filename: corruptedchunk.data
-size: 102499
-nhashes: 1
-hashes:
-    4e4dcf5cb1f3cfb33e5b
-nchunks: 1
-chunks:
-6d4ed50e00180bcaba679f2fb7b4e70,100,10240
