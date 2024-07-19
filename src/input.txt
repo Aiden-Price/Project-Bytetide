@@ -1,0 +1,3 @@
+ADDPACKAGE resources/pkgs/file1.bpkg
+PACKAGES
+REMPACKAGE e370a823bf279694ddb2
